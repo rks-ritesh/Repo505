@@ -194,7 +194,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
-    <owner>rks.ritesh@gmail.com.temp90.production</owner>
+    <owner>rks.ritesh@gmail.com.temp90.dev2</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -259,7 +259,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>rks.ritesh@gmail.com.temp90.production</runningUser>
+    <runningUser>rks.ritesh@gmail.com.temp90.dev2</runningUser>
     <textColor>#000000</textColor>
     <title>Company Performance Dashboard</title>
     <titleColor>#000099</titleColor>

@@ -21,7 +21,7 @@
     <isIcorInstApiTrafficBlocked>false</isIcorInstApiTrafficBlocked>
     <isInstancedApiTrafficBlocked>true</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>data-agility-8620</myDomainName>
+    <myDomainName>nosoftware-momentum-7627</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
